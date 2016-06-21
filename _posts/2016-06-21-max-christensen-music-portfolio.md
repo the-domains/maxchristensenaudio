@@ -17,10 +17,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=s4d58rZWpkk'
 title: Max Christensen Music Portfolio
-datePublished: '2016-06-21T09:29:37.062Z'
-dateModified: '2016-06-21T09:29:31.875Z'
+datePublished: '2016-06-21T09:29:47.894Z'
+dateModified: '2016-06-21T09:29:47.155Z'
 sourcePath: _posts/2016-06-21-max-christensen-music-portfolio.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
