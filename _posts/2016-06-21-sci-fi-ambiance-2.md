@@ -3,12 +3,12 @@ description: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/dJRqlcypZhM" frameborder="0"
   allowfullscreen></iframe>
-dateModified: '2016-06-21T09:34:21.531Z'
-datePublished: '2016-06-21T09:34:22.192Z'
+dateModified: '2016-06-21T09:34:23.180Z'
+datePublished: '2016-06-21T09:34:24.627Z'
 title: Sci-Fi Ambiance 2
 author: []
 sourcePath: _posts/2016-06-21-sci-fi-ambiance-2.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
