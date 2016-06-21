@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Max Christensen]]></title>
+        <description><![CDATA[Max Christensen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 09:29:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Max Christensen Music Portfolio]]></title>
+            <description><![CDATA[<article><h1>Max Christensen Music Portfolio</h1><p>A short portfolio showing off a collection of my tracks. *Music has no association with images! They were just used to display the purpose and use of the music* Check out the playlists for more!</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=s4d58rZWpkk</link>
+            <guid isPermaLink="false">0836ceb2-0262-48c9-ae95-89125f719053</guid>
+            <pubDate>Tue, 21 Jun 2016 09:29:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
